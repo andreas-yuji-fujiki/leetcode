@@ -6,7 +6,6 @@ function twoSum(nums: number[], target: number): number[] {
             }
         }
     }
-
     throw new Error("Nenhuma solução encontrada");
 }
 
